@@ -1,0 +1,1 @@
+cmd_/home/jacob/Linux_driver/driver_demo/chapter4/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jacob/Linux_driver/driver_demo/chapter4/hello.ko /home/jacob/Linux_driver/driver_demo/chapter4/hello.o /home/jacob/Linux_driver/driver_demo/chapter4/hello.mod.o

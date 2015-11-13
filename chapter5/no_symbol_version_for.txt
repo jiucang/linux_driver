@@ -1,0 +1,8 @@
+Ref link:
+http://blog.chinaunix.net/uid-20543672-id-3023148.html
+
+insmod: Error info
+No symbol version for xxx
+Unknown symbol xxx
+
+
